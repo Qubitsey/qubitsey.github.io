@@ -9,13 +9,13 @@
 title: Alejandro Villalba
 
 # Your name to show in the footer
-author: Ale.V
+author: Alejandro Villalba
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   CV: "downloads/CV.pdf"
-  Publications: "@qubitsey"
+  Publications: "https://medium.com/@qubitsey"
 
 # --- Logo --- #
 
@@ -59,7 +59,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  medium: https://medium.com/@qubitsey
+  medium: @qubitsey
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
