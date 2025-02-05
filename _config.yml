@@ -6,22 +6,22 @@
 # --- Required options --- #
 
 # Name of website
-title: Noam Brown
+title: Alejandro Villalba
 
 # Your name to show in the footer
-author: Noam Brown
+author: Alejandro Villalba
 
 # --- List of links in the navigation bar --- #
 
 navbar-links:
   CV: "downloads/CV.pdf"
-  Publications: "https://scholar.google.com/citations?user=RLDbLcUAAAAJ&view_op=list_works&sortby=pubdate"
+  Publications: "https://medium.com/@qubitsey"
 
 # --- Logo --- #
 
 # Image to show in the navigation bar - works best with a square image
 # Remove this parameter if you don't want an image in the navbar
-avatar: "/assets/img/profile1.jpg"
+avatar: "/assets/img/profile.jpg"
 
 # By default, the image is cut into a circle. You can disable this behaviour by setting 'round-avatar: false'
 round-avatar: true
@@ -36,11 +36,11 @@ round-avatar: true
 # Select the social network links that you want to show in the footer.
 # Uncomment the links you want to show and add your information to each one.
 social-network-links:
-  email: "noam@openai.com"
+  email: "qubitsey@gmail.com"
 #  rss: true  # remove this line if you don't want to show an RSS link at the bottom
 #  facebook: deanattali
 #  github: daattali
-  twitter: polynoamial
+  twitter: qubitsey
 #  patreon: DeanAttali
 #  youtube: c/noambrown
 #  medium: yourname
@@ -59,7 +59,7 @@ social-network-links:
 #  calendly: yourname
 #  mastodon: instance.url/@username
 #  ORCID: your ORCID ID
-  google-scholar: citations?user=RLDbLcUAAAAJ
+  medium: https://medium.com/@qubitsey
 #  discord: invite/invite_code or users/userid 
 #  kaggle: yourname
 #  hackerrank: yourname
@@ -79,7 +79,7 @@ share-links-active:
 
 # How to display the link to your website in the footer
 # Remove this if you don't want a link in the footer
-url-pretty: "noambrown.com"
+url-pretty: "qubitsey.com"
 
 # Excerpt word length - Truncate the excerpt of each post on the feed page to the specified number of words
 excerpt_length: 50
